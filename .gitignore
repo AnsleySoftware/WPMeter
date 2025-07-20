@@ -1,0 +1,25 @@
+# Ignore build output
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore VS-specific folders
+.vs/
+
+# Ignore user Settings
+*.userprefs
+*.DS_Store
+
+# Ignore system files
+Thumbs.db
+desktop.ini
+
+# Optional: ignore logs or installers
+*.msi
+*.exe
+*.zip
+*.7z
+*.log
